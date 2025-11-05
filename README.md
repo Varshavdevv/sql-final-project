@@ -1,5 +1,5 @@
 sql-final-project
-SQL Final Project – Data Analyst Training (Alfa Training)
+Data Analyst Training (Alfa Training)
 Includes database creation, functions, indexes, and stored procedures.
 
 
@@ -23,7 +23,7 @@ The goal was to simulate a small business database and perform analysis efficien
 
 ---
 
-echnologies Used
+Technologies Used
 - SQL Server / MySQL**
 - Relational database design**
 - Indexes, Views, Stored Procedures**
